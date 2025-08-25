@@ -24,9 +24,23 @@ button {
     border: none;
     border-radius: 6px;
     padding: 10px;
+    width:85px;
 }
 .decremento {
     background-color: red;
     color: white;
+    font-weight: bolder;
+}
+.contador {
+    background-color: black;
+    color: white;
     
+}
+.incremento {
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+.reiniciar {
+    background-color: aqua;
 }
