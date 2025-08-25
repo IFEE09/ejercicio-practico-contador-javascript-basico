@@ -1,0 +1,32 @@
+* {
+    transition: 0.3s;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.padre-titulo {
+    display: flex;
+    justify-content: center;
+}
+.titulo {
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 8px;
+}
+.padre-botones {
+    display: flex;
+    justify-content: center;
+}
+button {
+    margin: 4px;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+}
+.decremento {
+    background-color: red;
+    color: white;
+    
+}
